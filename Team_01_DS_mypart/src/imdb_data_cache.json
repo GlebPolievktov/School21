@@ -1,0 +1,702 @@
+{
+    "1": {
+        "Director": "John Lasseter, Pete Docter, Andrew Stanton, Tom Hanks, Tim Allen, Don Rickles",
+        "Budget": "$30,000,000 (estimated)",
+        "Runtime": "1h 21m(81 min)",
+        "Cumulative Worldwide Gross": "$394,436,586",
+        "Title": "Toy Story"
+    },
+    "2": {
+        "Director": "Joe Johnston, Jonathan Hensleigh, Greg Taylor, Jim Strain, Robin Williams, Kirsten Dunst, Bonnie Hunt",
+        "Budget": "$65,000,000 (estimated)",
+        "Runtime": "1h 44m(104 min)",
+        "Cumulative Worldwide Gross": "$262,821,940",
+        "Title": "Jumanji"
+    },
+    "3": {
+        "Director": "Howard Deutch, Mark Steven Johnson, Walter Matthau, Jack Lemmon, Ann-Margret",
+        "Budget": "$25,000,000 (estimated)",
+        "Runtime": "1h 41m(101 min)",
+        "Cumulative Worldwide Gross": "$71,518,503",
+        "Title": "Grumpier Old Men"
+    },
+    "4": {
+        "Director": "Forest Whitaker, Terry McMillan, Ron Bass, Whitney Houston, Angela Bassett, Loretta Devine",
+        "Budget": "$16,000,000 (estimated)",
+        "Runtime": "2h 4m(124 min)",
+        "Cumulative Worldwide Gross": "$81,452,156",
+        "Title": "Waiting to Exhale"
+    },
+    "5": {
+        "Director": "Charles Shyer, Albert Hackett, Frances Goodrich, Nancy Meyers, Steve Martin, Diane Keaton, Martin Short",
+        "Budget": "$30,000,000 (estimated)",
+        "Runtime": "1h 46m(106 min)",
+        "Cumulative Worldwide Gross": "$76,594,107",
+        "Title": "Father of the Bride Part II"
+    },
+    "6": {
+        "Director": "Michael Mann, Al Pacino, Robert De Niro, Val Kilmer",
+        "Budget": "$60,000,000 (estimated)",
+        "Runtime": "2h 50m(170 min)",
+        "Cumulative Worldwide Gross": "$187,436,818",
+        "Title": "Heat"
+    },
+    "7": {
+        "Director": "Sydney Pollack, Samuel A. Taylor, Billy Wilder, Ernest Lehman, Harrison Ford, Julia Ormond, Greg Kinnear",
+        "Budget": "$58,000,000 (estimated)",
+        "Runtime": "2h 7m(127 min)",
+        "Cumulative Worldwide Gross": "$53,696,959",
+        "Title": "Sabrina"
+    },
+    "8": {
+        "Director": "Peter Hewitt, Mark Twain, Stephen Sommers, David Loughery, Jonathan Taylor Thomas, Brad Renfro, Charles Rocket",
+        "Budget": null,
+        "Runtime": "1h 37m(97 min)",
+        "Cumulative Worldwide Gross": "$23,920,048",
+        "Title": "Tom and Huck"
+    },
+    "9": {
+        "Director": "Peter Hyams, Karen Elise Baldwin, Gene Quintano, Jean-Claude Van Damme, Powers Boothe, Raymond J. Barry",
+        "Budget": "$35,000,000 (estimated)",
+        "Runtime": "1h 51m(111 min)",
+        "Cumulative Worldwide Gross": "$64,350,171",
+        "Title": "Sudden Death"
+    },
+    "10": {
+        "Director": "Martin Campbell, Ian Fleming, Michael France, Jeffrey Caine, Pierce Brosnan, Sean Bean, Izabella Scorupco",
+        "Budget": "$60,000,000 (estimated)",
+        "Runtime": "2h 10m(130 min)",
+        "Cumulative Worldwide Gross": "$352,194,034",
+        "Title": "GoldenEye"
+    },
+    "11": {
+        "Director": "Rob Reiner, Aaron Sorkin, Michael Douglas, Annette Bening, Martin Sheen",
+        "Budget": "$62,000,000 (estimated)",
+        "Runtime": "1h 54m(114 min)",
+        "Cumulative Worldwide Gross": "$107,879,496",
+        "Title": "The American President"
+    },
+    "12": {
+        "Director": "Mel Brooks, Rudy De Luca, Steve Haberman, Leslie Nielsen, Peter MacNicol",
+        "Budget": "$30,000,000 (estimated)",
+        "Runtime": "1h 28m(88 min)",
+        "Cumulative Worldwide Gross": "$10,772,144",
+        "Title": "Dracula: Dead and Loving It"
+    },
+    "13": {
+        "Director": "Simon Wells, Cliff Ruby, Elana Lesser, David Steven Cohen, Kevin Bacon, Bob Hoskins, Bridget Fonda",
+        "Budget": null,
+        "Runtime": "1h 18m(78 min)",
+        "Cumulative Worldwide Gross": "$11,349,090",
+        "Title": "Balto"
+    },
+    "14": {
+        "Director": "Oliver Stone, Stephen J. Rivele, Christopher Wilkinson, Anthony Hopkins, Joan Allen, Powers Boothe",
+        "Budget": "$44,000,000 (estimated)",
+        "Runtime": "3h 12m(192 min)",
+        "Cumulative Worldwide Gross": "$13,681,765",
+        "Title": "Nixon"
+    },
+    "15": {
+        "Director": "Renny Harlin, Michael Frost Beckner, James Gorman, Bruce A. Evans, Geena Davis, Matthew Modine, Frank Langella",
+        "Budget": "$98,000,000 (estimated)",
+        "Runtime": "2h 4m(124 min)",
+        "Cumulative Worldwide Gross": "$10,017,322",
+        "Title": "Cutthroat Island"
+    },
+    "16": {
+        "Director": "Martin Scorsese, Nicholas Pileggi, Robert De Niro, Sharon Stone, Joe Pesci",
+        "Budget": "$52,000,000 (estimated)",
+        "Runtime": "2h 58m(178 min)",
+        "Cumulative Worldwide Gross": "$116,112,375",
+        "Title": "Casino"
+    },
+    "17": {
+        "Director": "Ang Lee, Jane Austen, Emma Thompson, Kate Winslet, James Fleet",
+        "Budget": "$16,000,000 (estimated)",
+        "Runtime": "2h 16m(136 min)",
+        "Cumulative Worldwide Gross": "$134,582,776",
+        "Title": "Sense and Sensibility"
+    },
+    "18": {
+        "Director": "Allison Anders, Alexandre Rockwell, Robert Rodriguez, Tim Roth, Antonio Banderas, Sammi Davis",
+        "Budget": "$4,000,000 (estimated)",
+        "Runtime": "1h 38m(98 min)",
+        "Cumulative Worldwide Gross": "$4,257,354",
+        "Title": "Four Rooms"
+    },
+    "19": {
+        "Director": "Steve Oedekerk, Jack Bernstein, Jim Carrey, Ian McNeice, Simon Callow",
+        "Budget": "$30,000,000 (estimated)",
+        "Runtime": "1h 30m(90 min)",
+        "Cumulative Worldwide Gross": "$212,385,533",
+        "Title": "Ace Ventura: When Nature Calls"
+    },
+    "20": {
+        "Director": "Joseph Ruben, Doug Richardson, David Loughery, Wesley Snipes, Woody Harrelson, Jennifer Lopez",
+        "Budget": "$68,000,000 (estimated)",
+        "Runtime": "1h 50m(110 min)",
+        "Cumulative Worldwide Gross": "$35,431,113",
+        "Title": "Money Train"
+    },
+    "21": {
+        "Director": "Barry Sonnenfeld, Elmore Leonard, Scott Frank, Gene Hackman, Rene Russo, Danny DeVito",
+        "Budget": "$30,250,000 (estimated)",
+        "Runtime": "1h 45m(105 min)",
+        "Cumulative Worldwide Gross": "$115,101,622",
+        "Title": "Get Shorty"
+    },
+    "22": {
+        "Director": "Jon Amiel, Ann Biderman, David Madsen, Sigourney Weaver, Holly Hunter, Dermot Mulroney",
+        "Budget": "$20,000,000 (estimated)",
+        "Runtime": "2h 3m(123 min)",
+        "Cumulative Worldwide Gross": "$32,051,917",
+        "Title": "Copycat"
+    },
+    "23": {
+        "Director": "Richard Donner, Lilly Wachowski, Lana Wachowski, Brian Helgeland, Sylvester Stallone, Antonio Banderas, Julianne Moore",
+        "Budget": "$50,000,000 (estimated)",
+        "Runtime": "2h 13m(133 min)",
+        "Cumulative Worldwide Gross": "$30,303,072",
+        "Title": "Assassins"
+    },
+    "24": {
+        "Director": "Victor Salva, Mary Steenburgen, Sean Patrick Flanery, Lance Henriksen",
+        "Budget": "$9,500,000 (estimated)",
+        "Runtime": "1h 51m(111 min)",
+        "Cumulative Worldwide Gross": "$30,862,156",
+        "Title": "Powder"
+    },
+    "25": {
+        "Director": "Mike Figgis, John O'Brien, Nicolas Cage, Elisabeth Shue, Julian Sands",
+        "Budget": "$3,600,000 (estimated)",
+        "Runtime": "1h 51m(111 min)",
+        "Cumulative Worldwide Gross": "$32,029,928",
+        "Title": "Leaving Las Vegas"
+    },
+    "26": {
+        "Director": "Oliver Parker, William Shakespeare, Laurence Fishburne, Kenneth Branagh, Irène Jacob",
+        "Budget": "$11,000,000 (estimated)",
+        "Runtime": "2h 3m(123 min)",
+        "Cumulative Worldwide Gross": "$2,844,379",
+        "Title": "Othello"
+    },
+    "27": {
+        "Director": "Lesli Linka Glatter, I. Marlene King, Christina Ricci, Demi Moore, Rosie O'Donnell",
+        "Budget": null,
+        "Runtime": "1h 42m(102 min)",
+        "Cumulative Worldwide Gross": "$37,591,674",
+        "Title": "Now and Then"
+    },
+    "28": {
+        "Director": "Roger Michell, Jane Austen, Nick Dear, Amanda Root, Ciarán Hinds, Susan Fleetwood",
+        "Budget": "£1,000,000 (estimated)",
+        "Runtime": "1h 43m(103 min)",
+        "Cumulative Worldwide Gross": "$5,269,757",
+        "Title": "Persuasion"
+    },
+    "29": {
+        "Director": "Marc Caro, Jean-Pierre Jeunet, Gilles Adrien, Ron Perlman, Daniel Emilfork, Judith Vittet",
+        "Budget": "$18,000,000 (estimated)",
+        "Runtime": "1h 52m(112 min)",
+        "Cumulative Worldwide Gross": "$1,784,338",
+        "Title": "The City of Lost Children"
+    },
+    "30": {
+        "Director": "Yimou Zhang, Feiyu Bi, Bin Wang, Li Xiao, Gong Li, Baotian Li, Xiaoxiao Wang",
+        "Budget": null,
+        "Runtime": "1h 48m(108 min)",
+        "Cumulative Worldwide Gross": "$2,086,101",
+        "Title": "Shanghai Triad"
+    },
+    "31": {
+        "Director": "John N. Smith, LouAnne Johnson, Ron Bass, Michelle Pfeiffer, George Dzundza, Courtney B. Vance",
+        "Budget": "$23,000,000 (estimated)",
+        "Runtime": "1h 39m(99 min)",
+        "Cumulative Worldwide Gross": "$179,519,401",
+        "Title": "Dangerous Minds"
+    },
+    "32": {
+        "Director": "Terry Gilliam, Chris Marker, David Webb Peoples, Janet Peoples, Bruce Willis, Madeleine Stowe, Brad Pitt",
+        "Budget": "$29,000,000 (estimated)",
+        "Runtime": "2h 9m(129 min)",
+        "Cumulative Worldwide Gross": "$168,839,459",
+        "Title": "12 Monkeys"
+    },
+    "34": {
+        "Director": "Chris Noonan, Dick King-Smith, George Miller, James Cromwell, Magda Szubanski, Christine Cavanaugh",
+        "Budget": "$30,000,000 (estimated)",
+        "Runtime": "1h 31m(91 min)",
+        "Cumulative Worldwide Gross": "$254,134,910",
+        "Title": "Babe"
+    },
+    "36": {
+        "Director": "Tim Robbins, Helen Prejean, Susan Sarandon, Sean Penn, Robert Prosky",
+        "Budget": "$11,000,000 (estimated)",
+        "Runtime": "2h 2m(122 min)",
+        "Cumulative Worldwide Gross": "$39,363,635",
+        "Title": "Dead Man Walking"
+    },
+    "38": {
+        "Director": "Andy Tennant, Deborah Dean Davis, Kirstie Alley, Steve Guttenberg, Mary-Kate Olsen",
+        "Budget": null,
+        "Runtime": "1h 41m(101 min)",
+        "Cumulative Worldwide Gross": "$19,474,589",
+        "Title": "It Takes Two"
+    },
+    "39": {
+        "Director": "Amy Heckerling, Alicia Silverstone, Stacey Dash, Brittany Murphy",
+        "Budget": "$12,000,000 (estimated)",
+        "Runtime": "1h 37m(97 min)",
+        "Cumulative Worldwide Gross": "$56,781,671",
+        "Title": "Clueless"
+    },
+    "40": {
+        "Director": "Darrell Roodt, Ronald Harwood, Alan Paton, Richard Harris, James Earl Jones, Vusi Kunene",
+        "Budget": null,
+        "Runtime": "1h 46m(106 min)",
+        "Cumulative Worldwide Gross": "$670,727",
+        "Title": "Cry, the Beloved Country"
+    },
+    "41": {
+        "Director": "Richard Loncraine, Ian McKellen, Richard Eyre, Annette Bening, Christopher Bowen",
+        "Budget": "£6,000,000 (estimated)",
+        "Runtime": "1h 44m(104 min)",
+        "Cumulative Worldwide Gross": "$2,748,518",
+        "Title": "Richard III"
+    },
+    "42": {
+        "Director": "Albert Hughes, Allen Hughes, Michael Henry Brown, Larenz Tate, Keith David, Chris Tucker",
+        "Budget": "$10,000,000 (estimated)",
+        "Runtime": "1h 59m(119 min)",
+        "Cumulative Worldwide Gross": "$24,147,179",
+        "Title": "Dead Presidents"
+    },
+    "43": {
+        "Director": "Michael Hoffman, Rose Tremain, Rupert Walters, Robert Downey Jr., Sam Neill, David Thewlis",
+        "Budget": "$19,000,000 (estimated)",
+        "Runtime": "1h 57m(117 min)",
+        "Cumulative Worldwide Gross": "$4,005,941",
+        "Title": "Restoration"
+    },
+    "44": {
+        "Director": "Paul W.S. Anderson, Ed Boon, John Tobias, Kevin Droney, Christopher Lambert, Robin Shou, Linden Ashby",
+        "Budget": "$18,000,000 (estimated)",
+        "Runtime": "1h 41m(101 min)",
+        "Cumulative Worldwide Gross": "$122,195,920",
+        "Title": "Mortal Kombat"
+    },
+    "45": {
+        "Director": "Gus Van Sant, Joyce Maynard, Buck Henry, Nicole Kidman, Matt Dillon, Joaquin Phoenix",
+        "Budget": "$20,000,000 (estimated)",
+        "Runtime": "1h 46m(106 min)",
+        "Cumulative Worldwide Gross": "$21,287,694",
+        "Title": "To Die For"
+    },
+    "46": {
+        "Director": "Jocelyn Moorhouse, Whitney Otto, Jane Anderson, Winona Ryder, Ellen Burstyn, Anne Bancroft",
+        "Budget": "$10,000,000 (estimated)",
+        "Runtime": "1h 57m(117 min)",
+        "Cumulative Worldwide Gross": "$41,200,020",
+        "Title": "How to Make an American Quilt"
+    },
+    "47": {
+        "Director": "David Fincher, Andrew Kevin Walker, Morgan Freeman, Brad Pitt, Kevin Spacey",
+        "Budget": "$33,000,000 (estimated)",
+        "Runtime": "2h 7m(127 min)",
+        "Cumulative Worldwide Gross": "$328,983,304",
+        "Title": "Se7en"
+    },
+    "48": {
+        "Director": "Mike Gabriel, Eric Goldberg, Carl Binder, Susannah Grant, Philip LaZebnik, Mel Gibson, Linda Hunt, Christian Bale",
+        "Budget": "$55,000,000 (estimated)",
+        "Runtime": "1h 21m(81 min)",
+        "Cumulative Worldwide Gross": "$346,079,773",
+        "Title": "Pocahontas"
+    },
+    "49": {
+        "Director": "Patricia Rozema, Pascale Bussières, Rachael Crawford, Henry Czerny",
+        "Budget": null,
+        "Runtime": "1h 34m(94 min)",
+        "Cumulative Worldwide Gross": "$919,671",
+        "Title": "When Night Is Falling"
+    },
+    "50": {
+        "Director": "Bryan Singer, Christopher McQuarrie, Kevin Spacey, Gabriel Byrne, Chazz Palminteri",
+        "Budget": "$6,000,000 (estimated)",
+        "Runtime": "1h 46m(106 min)",
+        "Cumulative Worldwide Gross": "$23,342,724",
+        "Title": "The Usual Suspects"
+    },
+    "52": {
+        "Director": "Woody Allen, Mira Sorvino, Pamela Blair",
+        "Budget": "$15,000,000 (estimated)",
+        "Runtime": "1h 35m(95 min)",
+        "Cumulative Worldwide Gross": "$6,468,498",
+        "Title": "Mighty Aphrodite"
+    },
+    "53": {
+        "Director": "Gianni Amelio, Andrea Porporati, Alessandro Sermoneta, Enrico Lo Verso, Michele Placido, Piro Milkani",
+        "Budget": null,
+        "Runtime": "1h 56m(116 min)",
+        "Cumulative Worldwide Gross": "$4,788,331",
+        "Title": "Lamerica"
+    },
+    "54": {
+        "Director": "Holly Goldberg Sloan, Steve Guttenberg, Olivia d'Abo, Jay O. Sanders",
+        "Budget": "$12,000,000 (estimated)",
+        "Runtime": "1h 40m(100 min)",
+        "Cumulative Worldwide Gross": "$17,736,619",
+        "Title": "The Big Green"
+    },
+    "55": {
+        "Director": "Ulu Grosbard, Barbara Turner, Jennifer Jason Leigh, Mare Winningham, Ted Levine",
+        "Budget": null,
+        "Runtime": "1h 55m(115 min)",
+        "Cumulative Worldwide Gross": "$1,110,104",
+        "Title": "Georgia"
+    },
+    "57": {
+        "Director": "Jodie Foster, Chris Radant, W.D. Richter, Holly Hunter, Anne Bancroft, Robert Downey Jr.",
+        "Budget": "$20,000,000 (estimated)",
+        "Runtime": "1h 43m(103 min)",
+        "Cumulative Worldwide Gross": "$17,519,169",
+        "Title": "Home for the Holidays"
+    },
+    "58": {
+        "Director": "Michael Radford, Antonio Skármeta, Furio Scarpelli, Giacomo Scarpelli, Massimo Troisi, Philippe Noiret, Maria Grazia Cucinotta",
+        "Budget": "$3,000,000 (estimated)",
+        "Runtime": "1h 48m(108 min)",
+        "Cumulative Worldwide Gross": "$21,901,623",
+        "Title": "The Postman"
+    },
+    "60": {
+        "Director": "Frank Oz, Lynne Reid Banks, Melissa Mathison, Hal Scardino, Litefoot, Lindsay Crouse",
+        "Budget": "$45,000,000 (estimated)",
+        "Runtime": "1h 36m(96 min)",
+        "Cumulative Worldwide Gross": "$35,656,131",
+        "Title": "The Indian in the Cupboard"
+    },
+    "61": {
+        "Director": "John Schlesinger, Erika Holzer, Amanda Silver, Rick Jaffa, Sally Field, Kiefer Sutherland, Ed Harris",
+        "Budget": "$20,000,000 (estimated)",
+        "Runtime": "1h 41m(101 min)",
+        "Cumulative Worldwide Gross": "$26,877,589",
+        "Title": "Eye for an Eye"
+    },
+    "62": {
+        "Director": "Stephen Herek, Patrick Sheane Duncan, Richard Dreyfuss, Glenne Headly, Jay Thomas",
+        "Budget": "$23,000,000 (estimated)",
+        "Runtime": "2h 24m(144 min)",
+        "Cumulative Worldwide Gross": "$106,269,971",
+        "Title": "Mr. Holland's Opus"
+    },
+    "63": {
+        "Director": "Paris Barclay, Shawn Wayans, Marlon Wayans, Phil Beauman, Keenen Ivory Wayans",
+        "Budget": "$3,800,000 (estimated)",
+        "Runtime": "1h 29m(89 min)",
+        "Cumulative Worldwide Gross": "$20,949,601",
+        "Title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood"
+    },
+    "64": {
+        "Director": "Bill Bennett, Denis Leary, Mike Armstrong, Ann Leary, Sandra Bullock, Stephen Dillane",
+        "Budget": null,
+        "Runtime": "1h 36m(96 min)",
+        "Cumulative Worldwide Gross": "$10,658,278",
+        "Title": "Two If by Sea"
+    },
+    "65": {
+        "Director": "Jason Bloom, Adam Leff, Mitchell Peck, Jason Blumenthal, Pauly Shore, Stephen Baldwin, William Atherton",
+        "Budget": "$15,000,000 (estimated)",
+        "Runtime": "1h 28m(88 min)",
+        "Cumulative Worldwide Gross": "$13,427,615",
+        "Title": "Bio-Dome"
+    },
+    "66": {
+        "Director": "Farhad Mann, Michael Miner, Patrick Bergin, Matt Frewer, Austin O'Brien",
+        "Budget": "$15,000,000 (estimated)",
+        "Runtime": "1h 33m(93 min)",
+        "Cumulative Worldwide Gross": "$2,409,225",
+        "Title": "Lawnmower Man 2: Beyond Cyberspace"
+    },
+    "68": {
+        "Director": "Josiane Balasko, Telsche Boorman, Patrick Aubrée, Victoria Abril, Alain Chabat",
+        "Budget": null,
+        "Runtime": "1h 44m(104 min)",
+        "Cumulative Worldwide Gross": "$1,026,646",
+        "Title": "French Twist"
+    },
+    "69": {
+        "Director": "F. Gary Gray, Ice Cube, DJ Pooh, Chris Tucker, Nia Long",
+        "Budget": "$3,500,000 (estimated)",
+        "Runtime": "1h 31m(91 min)",
+        "Cumulative Worldwide Gross": "$28,215,918",
+        "Title": "Friday"
+    },
+    "70": {
+        "Director": "Robert Rodriguez, Robert Kurtzman, Quentin Tarantino, Harvey Keitel, George Clooney, Juliette Lewis",
+        "Budget": "$19,000,000 (estimated)",
+        "Runtime": "1h 48m(108 min)",
+        "Cumulative Worldwide Gross": "$25,839,496",
+        "Title": "From Dusk Till Dawn"
+    },
+    "71": {
+        "Director": "Andrew Sipes, Paula Gosling, Charlie Fletcher, William Baldwin, Cindy Crawford, Steven Berkoff",
+        "Budget": "$50,000,000 (estimated)",
+        "Runtime": "1h 31m(91 min)",
+        "Cumulative Worldwide Gross": "$11,534,477",
+        "Title": "Fair Game"
+    },
+    "72": {
+        "Director": "Noah Baumbach, Bo Berkman, Josh Hamilton, Eric Stoltz, Samuel Gould",
+        "Budget": null,
+        "Runtime": "1h 36m(96 min)",
+        "Cumulative Worldwide Gross": "$718,490",
+        "Title": "Kicking and Screaming"
+    },
+    "73": {
+        "Director": "Claude Lelouch, Victor Hugo, Jean-Paul Belmondo, Michel Boujenah, Alessandra Martines",
+        "Budget": null,
+        "Runtime": "2h 55m(175 min)",
+        "Cumulative Worldwide Gross": "$740,048",
+        "Title": "Les Misérables"
+    },
+    "74": {
+        "Director": "Michael Goldenberg, Christian Slater, Mary Stuart Masterson, Pamela Adlon",
+        "Budget": null,
+        "Runtime": "1h 27m(87 min)",
+        "Cumulative Worldwide Gross": "$27,315,527",
+        "Title": "Bed of Roses"
+    },
+    "75": {
+        "Director": "Steve Miner, Mark Steven Johnson, Rick Moranis, Tom Arnold, Julianne Phillips",
+        "Budget": "$15,000,000 (estimated)",
+        "Runtime": "1h 30m(90 min)",
+        "Cumulative Worldwide Gross": "$2,042,530",
+        "Title": "Big Bully"
+    },
+    "76": {
+        "Director": "Christian Duguay, Philip K. Dick, Dan O'Bannon, Miguel Tejada-Flores, Peter Weller, Roy Dupuis, Jennifer Rubin",
+        "Budget": "$20,000,000 (estimated)",
+        "Runtime": "1h 48m(108 min)",
+        "Cumulative Worldwide Gross": "$5,711,695",
+        "Title": "Screamers"
+    },
+    "77": {
+        "Director": "Susanne Ofteringer, Nico, Tina Aumont, Christian Päffgen",
+        "Budget": null,
+        "Runtime": "1h 7m(67 min)",
+        "Cumulative Worldwide Gross": "$306,691",
+        "Title": "Nico Icon"
+    },
+    "78": {
+        "Director": "Sean Penn, Jack Nicholson, David Morse, Anjelica Huston",
+        "Budget": "$9,000,000 (estimated)",
+        "Runtime": "1h 51m(111 min)",
+        "Cumulative Worldwide Gross": "$868,979",
+        "Title": "The Crossing Guard"
+    },
+    "79": {
+        "Director": "Brian Gibson, George Dawes Green, Ted Tally, Demi Moore, Alec Baldwin, Joseph Gordon-Levitt",
+        "Budget": "$44,000,000 (estimated)",
+        "Runtime": "1h 58m(118 min)",
+        "Cumulative Worldwide Gross": "$22,754,725",
+        "Title": "The Juror"
+    },
+    "80": {
+        "Director": "Jafar Panahi, Abbas Kiarostami, Parviz Shahbazi, Aida Mohammadkhani, Mohsen Kafili, Fereshteh Sadre Orafaiy",
+        "Budget": "$150,000 (estimated)",
+        "Runtime": "1h 25m(85 min)",
+        "Cumulative Worldwide Gross": "$924,940",
+        "Title": "The White Balloon"
+    },
+    "81": {
+        "Director": "Gary Fleder, Scott Rosenberg, Andy Garcia, Christopher Walken, Christopher Lloyd",
+        "Budget": "$7,000,000 (estimated)",
+        "Runtime": "1h 55m(115 min)",
+        "Cumulative Worldwide Gross": "$529,766",
+        "Title": "Things to Do in Denver When You're Dead"
+    },
+    "82": {
+        "Director": "Marleen Gorris, Willeke van Ammelrooy, Jan Decleir, Veerle van Overloop",
+        "Budget": "£1,500,000 (estimated)",
+        "Runtime": "1h 42m(102 min)",
+        "Cumulative Worldwide Gross": "$4,249,321",
+        "Title": "Antonia's Line"
+    },
+    "83": {
+        "Director": "Tim Reid, Clifton L. Taulbert, Paul W. Cooper, Al Freeman Jr., Phylicia Rashad, Leon",
+        "Budget": null,
+        "Runtime": "1h 55m(115 min)",
+        "Cumulative Worldwide Gross": "$2,291,255",
+        "Title": "Once Upon a Time... When We Were Colored"
+    },
+    "85": {
+        "Director": "Philip Haas, A.S. Byatt, Belinda Haas, Mark Rylance, Kristin Scott Thomas, Patsy Kensit",
+        "Budget": "$4,997,987 (estimated)",
+        "Runtime": "1h 56m(116 min)",
+        "Cumulative Worldwide Gross": "$3,414,301",
+        "Title": "Angels and Insects"
+    },
+    "86": {
+        "Director": "Ridley Scott, Charles Gieg Jr., Felix Sutton, Todd Robinson, Jeff Bridges, Caroline Goodall, John Savage",
+        "Budget": "$38,000,000 (estimated)",
+        "Runtime": "2h 9m(129 min)",
+        "Cumulative Worldwide Gross": "$10,292,300",
+        "Title": "White Squall"
+    },
+    "87": {
+        "Director": "Ken Kwapis, John Hopkins, Bruce Graham, Jason Alexander, Faye Dunaway, Eric Lloyd",
+        "Budget": null,
+        "Runtime": "1h 28m(88 min)",
+        "Cumulative Worldwide Gross": "$9,871,065",
+        "Title": "Dunston Checks In"
+    },
+    "88": {
+        "Director": "Penelope Spheeris, Fred Wolf, Chris Farley, David Spade, Tim Matheson",
+        "Budget": null,
+        "Runtime": "1h 27m(87 min)",
+        "Cumulative Worldwide Gross": "$32,417,995",
+        "Title": "Black Sheep"
+    },
+    "89": {
+        "Director": "John Badham, Patrick Sheane Duncan, Johnny Depp, Christopher Walken, Courtney Chase",
+        "Budget": "$33,000,000 (estimated)",
+        "Runtime": "1h 29m(89 min)",
+        "Cumulative Worldwide Gross": "$8,175,346",
+        "Title": "Nick of Time"
+    },
+    "92": {
+        "Director": "Stephen Frears, Valerie Martin, Christopher Hampton, Julia Roberts, John Malkovich, George Cole",
+        "Budget": "$47,000,000 (estimated)",
+        "Runtime": "1h 48m(108 min)",
+        "Cumulative Worldwide Gross": "$12,379,402",
+        "Title": "Mary Reilly"
+    },
+    "93": {
+        "Director": "Wes Craven, Eddie Murphy, Vernon Lynch, Charlie Murphy, Angela Bassett, Allen Payne",
+        "Budget": "$20,000,000 (estimated)",
+        "Runtime": "1h 40m(100 min)",
+        "Cumulative Worldwide Gross": "$19,751,736",
+        "Title": "Vampire in Brooklyn"
+    },
+    "94": {
+        "Director": "Ted Demme, Scott Rosenberg, Matt Dillon, Timothy Hutton, Noah Emmerich",
+        "Budget": null,
+        "Runtime": "1h 52m(112 min)",
+        "Cumulative Worldwide Gross": "$10,597,759",
+        "Title": "Beautiful Girls"
+    },
+    "95": {
+        "Director": "John Woo, Graham Yost, John Travolta, Christian Slater, Samantha Mathis",
+        "Budget": "$50,000,000 (estimated)",
+        "Runtime": "1h 48m(108 min)",
+        "Cumulative Worldwide Gross": "$150,270,147",
+        "Title": "Broken Arrow"
+    },
+    "96": {
+        "Director": "Kenneth Branagh, Michael Maloney, Richard Briers, Hetta Charnley",
+        "Budget": null,
+        "Runtime": "1h 39m(99 min)",
+        "Cumulative Worldwide Gross": "$469,571",
+        "Title": "A Midwinter's Tale"
+    },
+    "97": {
+        "Director": "Mathieu Kassovitz, Vincent Cassel, Hubert Koundé, Saïd Taghmaoui",
+        "Budget": "€2,590,000 (estimated)",
+        "Runtime": "1h 38m(98 min)",
+        "Cumulative Worldwide Gross": "$762,618",
+        "Title": "La haine"
+    },
+    "99": {
+        "Director": "Nick Broomfield, Nina Xining Zuo, Madam Alex",
+        "Budget": null,
+        "Runtime": "1h 46m(106 min)",
+        "Cumulative Worldwide Gross": "$34,402",
+        "Title": "Heidi Fleiss: Hollywood Madam"
+    },
+    "100": {
+        "Director": "Harold Becker, Ken Lipper, Paul Schrader, Nicholas Pileggi, Al Pacino, John Cusack, Bridget Fonda",
+        "Budget": "$40,000,000 (estimated)",
+        "Runtime": "1h 51m(111 min)",
+        "Cumulative Worldwide Gross": "$20,340,204",
+        "Title": "City Hall"
+    },
+    "101": {
+        "Director": "Wes Anderson, Owen Wilson, Luke Wilson, Ned Dowd",
+        "Budget": "$7,000,000 (estimated)",
+        "Runtime": "1h 31m(91 min)",
+        "Cumulative Worldwide Gross": "$560,069",
+        "Title": "Bottle Rocket"
+    },
+    "102": {
+        "Director": "Nick Castle, Chris Matheson, Kerry Ehrin, Craig Munson, Ellen DeGeneres, Bill Pullman, Joan Cusack",
+        "Budget": null,
+        "Runtime": "1h 36m(96 min)",
+        "Cumulative Worldwide Gross": "$12,825,141",
+        "Title": "Mr. Wrong"
+    },
+    "103": {
+        "Director": "John Dahl, Bill Geddie, Ray Liotta, Linda Fiorentino, Peter Coyote",
+        "Budget": "$18,000,000 (estimated)",
+        "Runtime": "1h 57m(117 min)",
+        "Cumulative Worldwide Gross": "$2,821,671",
+        "Title": "Unforgettable"
+    },
+    "104": {
+        "Director": "Dennis Dugan, Tim Herlihy, Adam Sandler, Christopher McDonald, Julie Bowen",
+        "Budget": "$12,000,000 (estimated)",
+        "Runtime": "1h 32m(92 min)",
+        "Cumulative Worldwide Gross": "$41,422,354",
+        "Title": "Happy Gilmore"
+    },
+    "105": {
+        "Director": "Clint Eastwood, Richard LaGravenese, Robert James Waller, Meryl Streep, Annie Corley",
+        "Budget": "$24,000,000 (estimated)",
+        "Runtime": "2h 15m(135 min)",
+        "Cumulative Worldwide Gross": "$182,016,617",
+        "Title": "The Bridges of Madison County"
+    },
+    "106": {
+        "Director": "Doris Dörrie, Maria Schrader, Pierre Sanoussi-Bliss, Michael von Au",
+        "Budget": null,
+        "Runtime": "1h 44m(104 min)",
+        "Cumulative Worldwide Gross": null,
+        "Title": "Nobody Loves Me"
+    },
+    "107": {
+        "Director": "Brian Henson, Robert Louis Stevenson, Jerry Juhl, Kirk R. Thatcher, Tim Curry, Billy Connolly, Jennifer Saunders",
+        "Budget": null,
+        "Runtime": "1h 39m(99 min)",
+        "Cumulative Worldwide Gross": "$34,327,766",
+        "Title": "Muppet Treasure Island"
+    },
+    "108": {
+        "Director": "Robert Leacock, Christy Turlington, Azzedine Alaïa, Giorgio Armani",
+        "Budget": null,
+        "Runtime": "1h 35m(95 min)",
+        "Cumulative Worldwide Gross": "$28,672",
+        "Title": "Catwalk"
+    },
+    "110": {
+        "Director": "Mel Gibson, Randall Wallace, Sophie Marceau, Patrick McGoohan",
+        "Budget": "$72,000,000 (estimated)",
+        "Runtime": "2h 58m(178 min)",
+        "Cumulative Worldwide Gross": "$213,216,216",
+        "Title": "Braveheart"
+    },
+    "111": {
+        "Director": "Martin Scorsese, Paul Schrader, Robert De Niro, Jodie Foster, Cybill Shepherd",
+        "Budget": "$1,300,000 (estimated)",
+        "Runtime": "1h 54m(114 min)",
+        "Cumulative Worldwide Gross": "$28,979,798",
+        "Title": "Taxi Driver"
+    },
+    "112": {
+        "Director": "Stanley Tong, Edward Tang, Fibe Ma, Jackie Chan, Anita Mui, Françoise Yip",
+        "Budget": "$7,500,000 (estimated)",
+        "Runtime": "1h 27m(87 min)",
+        "Cumulative Worldwide Gross": "$32,392,047",
+        "Title": "Rumble in the Bronx"
+    }
+}
