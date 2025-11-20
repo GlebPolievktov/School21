@@ -1,0 +1,1 @@
+termgraph data.txt --title "График" --color blue red  --width 50 
